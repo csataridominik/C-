@@ -1,0 +1,19 @@
+2021-11-19T13:50:46.586437
+[Compilation] testsuite 0: COMPILATION SUCCESSFUL
+[Testcase result] testsuite 0 testcase #0 "Gyerekek lekérdezés egy gyerekes szülő esetén": PASS
+[Testcase result] testsuite 0 testcase #1 "Gyerekek lekérdezés nulla gyerekes szülő esetén": PASS
+[Testcase result] testsuite 0 testcase #2 "Gyerekek lekérdezés három gyerekes szülő esetén": PASS
+[Testcase result] testsuite 0 testcase #3 "Rokonsági teszt testvérek esetén": PASS
+[Testcase result] testsuite 0 testcase #4 "Rokonsági teszt unokatestvérek esetén": PASS
+[Testcase result] testsuite 0 testcase #5 "Rokonsági teszt dédszülő-dédunoka esetén": PASS
+[Testcase result] testsuite 0 testcase #6 "Rokonsági teszt abban az esebten, ha nincs rokonság": PASS
+
+Memory check:
+[Compilation] testsuite 0: COMPILATION SUCCESSFUL
+[Testcase result] testsuite 0 testcase #0 "Gyerekek lekérdezés egy gyerekes szülő esetén": PASS
+[Testcase result] testsuite 0 testcase #1 "Gyerekek lekérdezés nulla gyerekes szülő esetén": PASS
+[Testcase result] testsuite 0 testcase #2 "Gyerekek lekérdezés három gyerekes szülő esetén": PASS
+[Testcase result] testsuite 0 testcase #3 "Rokonsági teszt testvérek esetén": PASS
+[Testcase result] testsuite 0 testcase #4 "Rokonsági teszt unokatestvérek esetén": PASS
+[Testcase result] testsuite 0 testcase #5 "Rokonsági teszt dédszülő-dédunoka esetén": PASS
+[Testcase result] testsuite 0 testcase #6 "Rokonsági teszt abban az esebten, ha nincs rokonság": PASS

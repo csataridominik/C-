@@ -1,0 +1,19 @@
+TEST("Gyerekek teszt", 1) {
+    {
+        Ember *jozsi = new Ember("Józsi");
+        Ember *mari = new Ember("Mari");
+        Ember *bela = new Ember("Béla");
+        bela->setSzulok(jozsi, mari);
+        Ember *feri = new Ember("Feri");
+        Ember *gabor = new Ember("Gábor");
+        Ember *eva = new Ember("Éva");
+        feri->setSzulok(jozsi, eva);
+        gabor->setSzulok(jozsi, eva);
+        std::string gyerekek = "";
+        for(Ember *e: jozsi->getGyerekek()){
+            gyerekek += e->getNev() + ",";
+        }
+
+        CHECK_EQ(gyerekek, "Béla,Feri,Gábor,");
+    }
+}
