@@ -1,0 +1,19 @@
+2021-10-09T20:45:19.816592
+[Compilation] testsuite 0: COMPILATION SUCCESSFUL
+[Testcase result] testsuite 0 testcase #0 "1st test: isEmpty()": PASS
+[Testcase result] testsuite 0 testcase #1 "2nd test: in() and out()": PASS
+[Testcase result] testsuite 0 testcase #2 "3rd test: UnderFlowException": PASS
+[Testcase result] testsuite 0 testcase #3 "4th test: order()": PASS
+[Testcase result] testsuite 0 testcase #4 "5th test: order()": PASS
+[Testcase result] testsuite 0 testcase #5 "6th test: destruktor": PASS
+[Testcase result] testsuite 0 testcase #6 "7th test: first()": PASS
+
+Memory check:
+[Compilation] testsuite 0: COMPILATION SUCCESSFUL
+[Testcase result] testsuite 0 testcase #0 "1st test: isEmpty()": PASS
+[Testcase result] testsuite 0 testcase #1 "2nd test: in() and out()": PASS
+[Testcase result] testsuite 0 testcase #2 "3rd test: UnderFlowException": PASS
+[Testcase result] testsuite 0 testcase #3 "4th test: order()": PASS
+[Testcase result] testsuite 0 testcase #4 "5th test: order()": PASS
+[Testcase result] testsuite 0 testcase #5 "6th test: destruktor": PASS
+[Testcase result] testsuite 0 testcase #6 "7th test: first()": PASS
