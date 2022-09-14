@@ -1,0 +1,13 @@
+2021-09-26T21:22:47.424881
+[Compilation] testsuite 0: COMPILATION SUCCESSFUL
+[Testcase result] testsuite 0 testcase #0 "fixed array": PASS
+[Testcase result] testsuite 0 testcase #1 "dynamic array": PASS
+[Testcase result] testsuite 0 testcase #2 "paged array": PASS
+[Testcase result] testsuite 0 testcase #3 "dynamic binding": PASS
+
+Memory check:
+[Compilation] testsuite 0: COMPILATION SUCCESSFUL
+[Testcase result] testsuite 0 testcase #0 "fixed array": PASS
+[Testcase result] testsuite 0 testcase #1 "dynamic array": PASS
+[Testcase result] testsuite 0 testcase #2 "paged array": PASS
+[Testcase result] testsuite 0 testcase #3 "dynamic binding": PASS
